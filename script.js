@@ -169,7 +169,7 @@ rugImages.forEach(imageName => {
     card.innerHTML = `
         <img src="Goldwestrugs Photos/${imageName}" alt="${name} ${size} ${year}" class="rug-image">
         <div class="info">
-            <h2>${name} Rug</h2>
+            <h2>${name}</h2>
             <p>Lot #: ${lotNumber}</p>
             <p>Origin: ${name}</p>
             <p>Size: ${size.replace('x', 'x')}</p>
