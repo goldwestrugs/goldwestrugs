@@ -38,7 +38,7 @@ const rugImages = [
 "0106 Goravan 13x18 1920.jpg",
 "0018 Goravan 10x13 1930.jpg",
 "0163 Bokhara 10x13 1950.jpg",
-"0129 Torkmen 10x13 1930.jpg",
+"0129 Turkmen 10x13 1930.jpg",
 "0101 Tabriz 9x12 1920.jpg",
 "0038 Kerman 9x12 1940.jpg",
 "0161 Kerman 9x12 1940.jpg",
