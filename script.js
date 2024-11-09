@@ -126,7 +126,7 @@ const rugImages = [
 "0004 Heriz 7x10 1920.jpg",
 "0003 Heriz 7x10 1920.jpg",
 "0002 Agra 7x8 1900.jpg",
-"0001 Heriz 9x12 1920.png",
+"0001 Heriz 9x12 1920.jpg",
 "0069 Heriz 9x12 1920.jpg",
 "0164 Heriz 8x11 1920.jpg",
 "0125 Heriz 9x12 1920.jpg",
